@@ -2,7 +2,7 @@
 
 :bust_in_silhouette: My name is Alexandre MALFREYT (aka. AlexZeGamer)
 
-:student: Student at Polytech Paris-Saclay (Paris-Saclay University, Orsay, France) 🇫🇷
+:student: Student at [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/) (Paris-Saclay University, Orsay, France) 🇫🇷
 
 :robot: I use [Github Copilot](https://copilot.github.com/) a lot (Is that cheating ? :grimacing:)
 
