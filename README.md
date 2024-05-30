@@ -12,4 +12,4 @@
 
 ---
 
-:globe_with_meridians: [Website](https://alexandre.malfre.yt/) - [LinkedIn](https://www.linkedin.com/in/alexandre-malfreyt/) - [Twitter](https://www.twitter.com/AlexZeGamr)
+:globe_with_meridians: [Website](https://alexandre.malfre.yt/) - [LinkedIn](https://www.linkedin.com/in/alexandre-malfreyt/) - [Twitter](https://www.twitter.com/AlexMalfr)
