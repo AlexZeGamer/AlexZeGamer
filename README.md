@@ -6,4 +6,4 @@
 
 # 🇫🇷 Ceci est mon ancien nom d'utilisateur
 
-### ➡️ Pour accéder à mon profile, visitez [https://github.com/AlexMalfr](https://github.com/AlexMalfr)
+### ➡️ Pour accéder à mon profil, visitez [https://github.com/AlexMalfr](https://github.com/AlexMalfr)
